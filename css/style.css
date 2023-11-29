@@ -1,0 +1,80 @@
+.pb{
+  margin-bottom: 50px;
+}
+
+#draggable {
+    width: 150px;
+    height: 150px;
+    padding: 0.5em;
+    background-color: lightseagreen;
+}
+/* sortable */
+
+#sortable1, #sortable2 {
+    border: 1px solid #eee;
+    width: 142px;
+    min-height: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 0 0 0;
+    float: left;
+    margin-right: 10px;
+  }
+  #sortable1 li, #sortable2 li {
+    margin: 0 5px 5px 5px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 120px;
+  }
+  /* datepicker */
+  .clo{
+    background-color: rgb(72, 130, 167);
+  }
+/* tooltips */
+  label {
+    display: inline-block;
+    width: 5em;
+  }
+
+  /* addclass */
+  /* .toggler { width: 500px; height: 200px; position: relative; }
+  #button { padding: .5em 1em; text-decoration: none; }
+  #effect { width: 240px;  padding: 1em; border: 1px solid #000; background: #eee; color: #333; }
+  .newClass { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 120px; padding: 30px; margin: 10px; font-size: 1.1em; } */
+  
+/* colore animation */
+  /* .toggle{ width: 500px; height: 200px; position: relative; }
+  #button { padding: .5em 1em; text-decoration: none; }
+  #effect { width: 240px; height: 170px; padding: 0.4em; position: relative; background: #fff; }
+  #effect h3 { margin: 0; padding: 0.4em; text-align: center; } */
+
+  .togglercall { width: 500px; height: 200px; position: relative; }
+  #buttoncall { padding: .5em 1em; text-decoration: none; }
+  #effectcall { width: 240px;  padding: 1em; border: 1px solid #000; background: #eee; color: #333; }
+  .newClasscall { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 120px; padding: 30px; margin: 10px; font-size: 1.1em; }
+
+  /* color enimation */
+
+  .togglerall { width: 500px; height: 200px; position: relative; }
+  #buttonall { padding: .5em 1em; text-decoration: none; }
+  #effectall { width: 240px; height: 170px; padding: 0.4em; position: relative; background: lightblue; }
+  #effectall h3 { margin: 0; padding: 0.4em; text-align: center; }
+
+  /* remove class */
+  
+  .togglerfall { width: 500px; height: 200px; position: relative; }
+  #buttonfall { padding: .5em 1em; text-decoration: none; }
+  #effectfall { position: relative;  width: 240px;  padding: 1em;  letter-spacing: 0; font-size: 1.2em; border: 1px solid #000; background: #d1bcbc; color: #302020; }
+  .newClassfall { text-indent: 40px; letter-spacing: .4em; width: 410px; height: 100px; padding: 30px; margin: 10px; font-size: 1.6em; }
+
+  /* switch class  */
+  .togglerwall { width: 500px; height: 200px; position: relative; }
+  #buttonwall { padding: .5em 1em; text-decoration: none; }
+  #effectwall { position: relative; }
+  .newClasswall { width: 240px;  padding: 1em; letter-spacing: 0; margin: 0; }
+  .anotherNewClasswall { text-indent: 40px; letter-spacing: .2em; width: 410px; height: 100px; padding: 30px; margin: 10px; font-size: 1.1em; }
+
+/* manu_item */
+
+.ui-menu { width: 200px; }
+.ui-widget-header { padding: 0.2em; }
